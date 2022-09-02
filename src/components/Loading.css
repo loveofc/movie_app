@@ -1,0 +1,11 @@
+body{
+    padding:0px;
+    margin:0px;
+}
+.lWrap{
+    padding:0px;
+    margin:0px;
+    width:100vw;
+    height: 100vh;
+    background-color: rgb(1, 33, 33);
+}
