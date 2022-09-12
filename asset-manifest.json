@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/myp.cafe24app.com/static/css/main.9602e0e5.css",
-    "main.js": "/myp.cafe24app.com/static/js/main.bb93daec.js",
-    "index.html": "/myp.cafe24app.com/index.html",
-    "main.9602e0e5.css.map": "/myp.cafe24app.com/static/css/main.9602e0e5.css.map",
-    "main.bb93daec.js.map": "/myp.cafe24app.com/static/js/main.bb93daec.js.map"
+    "main.css": "/static/css/main.9602e0e5.css",
+    "main.js": "/static/js/main.bb93daec.js",
+    "index.html": "/index.html",
+    "main.9602e0e5.css.map": "/static/css/main.9602e0e5.css.map",
+    "main.bb93daec.js.map": "/static/js/main.bb93daec.js.map"
   },
   "entrypoints": [
     "static/css/main.9602e0e5.css",
